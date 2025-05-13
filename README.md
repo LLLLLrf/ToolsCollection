@@ -48,6 +48,7 @@
 | name                                                         | description                      | type |
 | ------------------------------------------------------------ | -------------------------------- | ---- |
 | [Vote on a Presentation - Mentimeter](https://www.menti.com/) | Pre神器，轻松与观众互动                                 |      |
+| [Magic Eraser](https://magiceraser.pro/zh) | 免费图像物品消除 | |
 | [Mockup Generator & Animator 3D Rotato](https://rotato.app/) | 轻松渲染3D展示动画，含大量3D模型                          |      |
 | [SpaceTypeGenerator](https://spacetypegenerator.com/)        | 文字特效制作，可用于PPT，暂不支持中文字符                 |       |
 | [Free Google Slides themes and Powerpoint templates Slidesgo](https://slidesgo.com/) | 幻灯片模板集                    |      |
