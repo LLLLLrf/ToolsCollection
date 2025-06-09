@@ -58,6 +58,7 @@
 | [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                    |      |
 | [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集                           |      |
 | [D.Design堆友](https://d.design/?tab=model) | 模型图片素材库 | |
+| [即时工具](https://www.67tool.com/video/edit/delImg) | 免费视频去水印 | |
 
 ## 宝藏仓库
 | name                                                         | description                         | type   |
@@ -78,8 +79,9 @@
 
 | name                                                         | description                         | type   |
 | ------------------------------------------------------------ | ----------------------------------- | ------ |
-| [Beautiful CSS box-shadow examples (getcssscan.com)](https://getcssscan.com/css-box-shadow-examples) | box阴影样式预览选择，点击可复制代码 | 美化   |
 | [The Largest Library of Open-Source UI elements](https://uiverse.io/) | 最强组件库                          | 组件库 |
+| [React Bits](https://www.reactbits.dev/) | 高级效果组件库 | 组件库 |
+| [Beautiful CSS box-shadow examples (getcssscan.com)](https://getcssscan.com/css-box-shadow-examples) | box阴影样式预览选择，点击可复制代码 | 美化   |
 | [Vue DevUI 主题定制](https://vue-devui.github.io/theme-guide/) | 框架无关的主题定制UI库              | 组件库 |
 | [arco.design](https://arco.design/)                          | React和Vue组件库                    | 组件库 |
 | [Ant Design Vue (antdv.com)](https://www.antdv.com/components/overview-cn) | Web高阶组件库                       | 组件库 |
