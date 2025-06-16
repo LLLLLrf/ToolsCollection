@@ -32,6 +32,7 @@
 | name                                                         | description         | type     |
 | ------------------------------------------------------------ | ------------------- | -------- |
 | [科研废物导航 (yanweb.top)](https://www.yanweb.top/)         | 科研工具集合        | 工具集   |
+| [ILOVEPDF](https://www.ilovepdf.com/) | 一切PDF相关操作（拼接、格式转换、扫描...） | 工作效率 |
 | [Plagium](https://www.plagium.com/en/plagiarismchecker)      | 英文查相似文章、查ai工具        | 工作效率 |
 | [Duplichecker](https://www.duplichecker.com/)                | 英文查重工具        | 工作效率 |
 | [会议之眼](https://www.conferenceeye.cn/home/submission/1)   | 计算机会议集合      | 科研检索 |
@@ -53,7 +54,7 @@
 | [SpaceTypeGenerator](https://spacetypegenerator.com/)        | 文字特效制作，可用于PPT，暂不支持中文字符                 |       |
 | [Free Google Slides themes and Powerpoint templates Slidesgo](https://slidesgo.com/) | 幻灯片模板集                    |      |
 | [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)               | CS自学网站，方向丰富                                     |      |
-| [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | 数据结构与算法，可视化           |      |
+| [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | 数据结构与算法，可视化  |      |
 | [OI Wiki](https://oi.wiki/)                                  | 经典数据结构与算法wiki                                   |      |
 | [Github Profilinator - Profile README Generator](https://profilinator.rishav.dev/) | Github主页生成                    |      |
 | [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contents) | Github主页徽章集                           |      |
