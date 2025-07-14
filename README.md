@@ -14,6 +14,7 @@
 | name                                          | description                                              | type     |
 | --------------------------------------------- | -------------------------------------------------------- | -------- |
 | [Perplexity](https://www.perplexity.ai/)      | 基于LLM的搜索工具，速度快效果好，支持各种格式文件上传     | 检索问答 |
+| [AlphaXiv](https://www.alphaxiv.org/)         | 带AI功能的ArXiv                                       | 文献阅读 |
 | [OpenRead](https://www.openread.academy/zh)   | 科研文献搜索、总结、生成关系网，也可自行上传pdf           | 文献阅读 |
 | [txyz.ai](https://www.txyz.ai/)               | 基于LLM的论文总结工具                                  | 文献阅读 |
 | [ResearchFlow](https://rflow.ai/zh/dashboard) | 基于LLM的论文解析与思维导图生成工具                     | 文献阅读 |
