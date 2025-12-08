@@ -44,7 +44,7 @@
 | [Netron 模型可视化](https://github.com/lutzroeder/netron) | 支持多种模型格式，便捷好用 | 工作效率 |
 | [Waka Time](https://wakatime.com/dashboard) | 记录工作量的插件，可与github交互 | 工作记录   |
 | [ChartCube](https://chartcube.alipay.com/) | 在线图表制作  | 绘图工具 |
-| [CCFddl](https://ccfddl.top/) | 查看CCF收录的各会议期刊时间录取率 ｜ 工作效率 ｜
+| [CCFddl](https://ccfddl.top/) | 查看CCF收录的各会议期刊时间录取率  | 工作效率   | 
 
 ## 宝藏网站
 
@@ -106,4 +106,5 @@
 | [(StableDiffusion) DreamBooth流程全解](https://www.bilibili.com/video/BV1Wc411T7Vt/?spm_id_from=333.999.0.0) | DreamBooth教程                  | cv   |
 
 [返回顶部](#目录)
+
 
