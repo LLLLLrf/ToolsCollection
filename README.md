@@ -27,7 +27,7 @@
 | [Ace Essay](https://aceessay.ai) | AI写作、AI检测、Humanization降AI率                                   | 工作效率 |
 | [Humanize AI](https://humanizepro.ai/en/) | Humanization降AI率                                         | 工作效率 |
 | [GPTzero](https://app.gptzero.me/)         | AI率检测                                                  | 工作效率 |
-| [Variant](https://variant.com/)              | AI设计、网页前端生成、海报生成                        ｜ 应用开发 ｜
+| [Variant](https://variant.com/)              | AI设计、网页前端生成、海报生成                              | 应用开发 |
 
 ## 高效工作
 
