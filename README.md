@@ -28,6 +28,7 @@
 | [Humanize AI](https://humanizepro.ai/en/) | Humanization降AI率                                         | 工作效率 |
 | [GPTzero](https://app.gptzero.me/)         | AI率检测                                                  | 工作效率 |
 | [Variant](https://variant.com/)              | AI设计、网页前端生成、海报生成                              | 应用开发 |
+| [Stitch](https://stitch.withgoogle.com/) | 原型图前端设计AI | 应用开发 |
 
 ## 高效工作
 
